@@ -4,6 +4,5 @@
     "build": "hugo -s exampleSite"
   },
   "dependencies": {
-    "cypress": "^10.3.1"
   }
 }
