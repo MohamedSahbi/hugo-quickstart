@@ -17,6 +17,18 @@ background = "#FF4081"
 
 # reveal-hugo
 
-A Hugo theme for creating Reveal.js presentations.
+Happy Birthday Papaja
 
-~ made by [@dzello](https://dzello.com/) ~
+---
+
+# Francais
+
+Joyeux Anniversaire
+
+---
+
+Birthday Festivities Program
+
+---
+
+drum rolls
