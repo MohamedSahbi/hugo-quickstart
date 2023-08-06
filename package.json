@@ -3,6 +3,6 @@
     "start": "hugo server -s exampleSite",
     "build": "hugo -s exampleSite"
   },
-  "dependencies": {
-  }
+  "dependencies": {},
+  "devDependencies": {}
 }
